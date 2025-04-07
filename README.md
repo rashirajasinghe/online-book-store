@@ -20,4 +20,4 @@ A modern online bookstore built with React, Vite, and Tailwind CSS. Browse books
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/rashirajasinghe/online-book-store.git
-   cd online-books-tore
+   cd online-book-store
